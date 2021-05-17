@@ -1,6 +1,6 @@
 {
-  "name": "reinaldorti/mvc-wdev",
-  "description": "MVC em PHP: Conceito e início do projeto - Série MVC em PHP - Parte 1",
+  "name": "reinaldorti/wdev-mvc",
+  "description": "MVC em PHP: Conceito e início do projeto - Série MVC em PHP",
   "minimum-stability": "stable",
   "authors": [
     {
